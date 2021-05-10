@@ -17,10 +17,10 @@
 Following are the screenshots 
 
 # 1. Home Screen 
-  ![alt text](/attachment/home.png)
+![alt text](/attachment/home.PNG)
   
 # 2. When Drawer opens
-  ![alt text](/attachment/drawer_open.png)
+![alt text](/attachment/drawer_open.PNG)
   
 # 3. When We select Item1
-  ![alt text](/attachment/item1.png)
+![alt text](/attachment/item1.PNG)
